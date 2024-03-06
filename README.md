@@ -1,1 +1,1 @@
-# Datasci223-Final-Project
+# Datasci223-Final-Project. Working on this final project with Muskaan Sandhu and Ritika Batte. The link to the paper we are referring to is: https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5#MOESM1
